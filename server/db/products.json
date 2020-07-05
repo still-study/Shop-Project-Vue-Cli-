@@ -1,0 +1,56 @@
+[
+  {
+    "id_product": 1,
+    "img_name": "1657.png",
+    "product_name": "MANGO JACKET 1",
+    "price": 65.15
+  },
+  {
+    "id_product": 2,
+    "img_name": "1877.png",
+    "product_name": "MANGO JACKET 2",
+    "price": 42.00
+  },
+  {
+    "id_product": 3,
+    "img_name": "1209.png",
+    "product_name": "MANGO JACKET 3",
+    "price": 59.00
+  },
+  {
+    "id_product": 4,
+    "img_name": "1937.png",
+    "product_name": "MANGO T-SHIRT 4",
+    "price": 67.00
+  },
+  {
+    "id_product": 5,
+    "img_name": "1272.png",
+    "product_name": "MANGO HOODY 5",
+    "price": 36.00
+  },
+  {
+    "id_product": 6,
+    "img_name": "1997.png",
+    "product_name": "MANGO PEOPLE T-SHIRT 6",
+    "price": 66.00
+  },
+  {
+    "id_product": 7,
+    "img_name": "1256.png",
+    "product_name": "MANGO PEOPLE T-SHIRT 7",
+    "price": 73.00
+  },
+  {
+    "id_product": 8,
+    "img_name": "2057.png",
+    "product_name": "MANGO PEOPLE T-SHIRT 8",
+    "price": 49.00
+  },
+  {
+    "id_product": 9,
+    "img_name": "2087.png",
+    "product_name": "MANGO PEOPLE T-SHIRT 9",
+    "price": 50.00
+  }
+]
