@@ -1778,5 +1778,90 @@
         "time": "02 Nov 2020, 10:36:52 pm",
         "prod_name": "MANGO JACKET 3",
         "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 11:43:23 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 11:43:24 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 11:43:24 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 11:43:25 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 11:43:25 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 11:43:29 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 11:43:32 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 11:43:33 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2020, 12:01:46 am",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2020, 12:01:47 am",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "03 Nov 2020, 12:01:48 am",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2020, 12:01:49 am",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2020, 12:01:50 am",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2020, 12:01:52 am",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "03 Nov 2020, 12:02:00 am",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2020, 12:02:01 am",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "03 Nov 2020, 12:02:03 am",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
     }
 ]
