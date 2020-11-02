@@ -1,0 +1,1782 @@
+[
+    {
+        "time": "30 Jan 2020, 7:54:11 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:15 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:20 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:21 pm",
+        "prod_name": "Мышка",
+        "action": "add"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:22 pm",
+        "action": "remove"
+    },
+    {
+        "time": "30 Jan 2020, 7:54:22 pm",
+        "action": "remove"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:14 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:16 pm",
+        "action": "change"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:17 pm",
+        "action": "remove"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:18 pm",
+        "action": "remove"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:21 pm",
+        "prod_name": "Ноутбук",
+        "action": "add"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:21 pm",
+        "prod_name": "Gamepad",
+        "action": "add"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:22 pm",
+        "prod_name": "Keyboard",
+        "action": "add"
+    },
+    {
+        "time": "30 Jan 2020, 8:06:23 pm",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 6:18:00 am",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 6:18:07 am",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 6:18:08 am",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 6:18:10 am",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 6:19:02 am",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 6:19:04 am",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 6:19:05 am",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 6:19:43 am",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:11:50 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:11:58 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:12:01 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:14:18 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 7:14:26 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:14:28 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:14:33 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:14:37 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:14:42 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:14:45 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:15:05 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:15:47 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:43:39 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:43:43 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:43:52 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:44:05 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:44:08 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:44:13 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:44:22 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:44:24 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:44:58 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:45:00 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 7:45:01 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:37 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:38 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:39 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:39 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:40 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:41 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:42 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:42 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:43 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:44 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:45 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:46 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:47 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:47 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:48 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:49 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:49 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:50 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:05:51 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 8:06:05 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 8:06:07 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:06:13 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:06:17 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 8:07:25 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 8:07:27 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 8:07:47 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 8:10:36 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 8:17:11 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:17:14 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:49:21 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:49:26 pm",
+        "prod_name": "MANGO HOODY 5",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 8:49:37 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 8:49:47 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 8:51:29 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:51:31 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:51:33 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 8:51:34 pm",
+        "prod_name": "MANGO HOODY 5",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 8:51:35 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:51:36 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 8:51:40 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 8:51:42 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 8:51:43 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 8:51:49 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:51:56 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 8:51:58 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:52:02 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:52:05 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:52:07 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:52:08 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:52:08 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 8:52:09 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 8:52:22 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 9:17:14 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 9:17:18 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 9:18:35 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 9:18:37 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 9:18:39 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 9:18:41 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 9:18:43 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 9:18:44 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 9:18:46 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 9:18:46 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 9:18:48 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 9:19:45 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 9:19:47 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 9:21:20 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 11:17:00 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 11:17:01 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 11:17:01 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 11:17:19 pm",
+        "prod_name": "MANGO HOODY 5",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 11:17:25 pm",
+        "prod_name": "MANGO HOODY 5",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 11:17:32 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 11:32:38 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "31 Oct 2020, 11:34:21 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 11:34:22 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "31 Oct 2020, 11:34:35 pm",
+        "prod_name": "MANGO HOODY 5",
+        "action": "change"
+    },
+    {
+        "time": "31 Oct 2020, 11:34:37 pm",
+        "prod_name": "MANGO HOODY 5",
+        "action": "remove"
+    },
+    {
+        "time": "01 Nov 2020, 12:33:09 am",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "01 Nov 2020, 12:33:12 am",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "01 Nov 2020, 12:33:48 am",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "01 Nov 2020, 12:33:51 am",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "01 Nov 2020, 12:33:52 am",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "01 Nov 2020, 12:33:53 am",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "01 Nov 2020, 12:59:40 am",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "01 Nov 2020, 1:29:36 am",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "01 Nov 2020, 1:29:42 am",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "01 Nov 2020, 1:29:45 am",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "01 Nov 2020, 1:29:47 am",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "01 Nov 2020, 1:29:54 am",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "01 Nov 2020, 1:29:56 am",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "01 Nov 2020, 1:29:57 am",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "01 Nov 2020, 1:34:42 am",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "01 Nov 2020, 1:34:52 am",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "01 Nov 2020, 1:35:08 am",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 2:52:18 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 2:52:21 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 2:52:21 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 2:52:39 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 2:55:19 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 3:00:55 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 3:02:26 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 3:02:27 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 3:02:28 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 3:02:31 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 3:02:33 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 3:02:35 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 3:02:38 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 9",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 3:02:39 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 7",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 4:27:19 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 4:27:21 pm",
+        "prod_name": "MANGO HOODY 5",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 5:36:15 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 5:36:17 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 5:36:18 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 9",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 5:36:34 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 7",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 5:47:39 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 5:47:40 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 5:58:13 pm",
+        "prod_name": "MANGO HOODY 5",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 5:58:15 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 5:58:17 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 5:58:20 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 5:58:34 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 6:02:34 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 6:03:07 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 6:03:13 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 6:03:13 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 6:03:15 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 6:03:17 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 6:03:21 pm",
+        "prod_name": "MANGO PEOPLE T-SHIRT 6",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 6:13:13 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 6:13:17 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 6:13:17 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 6:14:43 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 6:14:45 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 6:14:46 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 6:14:48 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 6:15:03 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 6:15:05 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 6:15:05 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 6:15:07 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 7:05:08 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 7:05:11 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 7:47:59 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 7:48:02 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 7:48:16 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 7:48:19 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 7:54:24 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 7:54:24 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 7:54:26 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 7:54:26 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 7:54:27 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 7:54:27 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 7:54:35 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 7:54:36 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 7:54:55 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 7:54:56 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 7:54:59 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 7:55:02 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 7:55:19 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 7:55:23 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 7:55:25 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 8:01:46 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 8:02:18 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 8:02:21 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 8:02:26 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 8:03:17 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 8:04:19 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 8:04:20 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 8:11:18 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 8:11:26 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 8:11:29 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 8:13:09 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 8:13:12 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 8:15:25 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 8:15:26 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 8:15:51 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 8:16:03 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 8:16:25 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 8:16:27 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 8:16:32 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 8:16:48 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 8:16:54 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 8:17:12 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 8:17:15 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 8:17:20 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 8:59:12 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 8:59:24 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 8:59:27 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 8:59:46 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:03:07 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:03:44 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:08:48 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:08:48 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:08:50 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:08:50 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:09:39 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:09:42 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:09:47 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:09:52 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:12:48 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:12:54 pm",
+        "prod_name": "MANGO HOODY 5",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:12:59 pm",
+        "prod_name": "MANGO HOODY 5",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:13:23 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:13:26 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:13:30 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:15:31 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:15:33 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:15:47 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:26:26 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:27:03 pm",
+        "prod_name": "MANGO HOODY 5",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:28:24 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:28:26 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:28:59 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:29:04 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:29:50 pm",
+        "prod_name": "MANGO HOODY 5",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:29:51 pm",
+        "prod_name": "MANGO HOODY 5",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:29:52 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:29:55 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:29:56 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:29:57 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:29:58 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:30:13 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:30:18 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:33:40 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:33:42 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:33:57 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:35:46 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:35:49 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:36:04 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:36:07 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:36:09 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:36:11 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:36:13 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:42:43 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:42:44 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:42:45 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:42:46 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:42:47 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:42:48 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:42:49 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:43:05 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:43:08 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:43:12 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:47:24 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:47:26 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:49:44 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:49:50 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:50:59 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:51:02 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:58:49 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:58:51 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 9:58:52 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:59:27 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:59:29 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:59:41 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 9:59:42 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 9:59:44 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:00:32 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:01:35 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:01:37 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:01:42 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:01:44 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 10:01:46 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:01:46 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:01:47 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:01:55 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:01:58 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:02:00 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 10:03:25 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:03:26 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:03:28 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:03:46 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:03:49 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:03:58 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:03:59 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:04:03 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:04:05 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:04:05 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 10:06:03 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:06:26 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:06:29 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:08:27 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:08:31 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:19:47 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:19:58 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:20:10 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:20:12 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:20:13 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:20:15 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:20:15 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:20:17 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 10:20:21 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:20:22 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 10:20:24 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:20:25 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:20:26 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:24:52 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 10:24:53 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 10:24:54 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 10:24:58 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:25:01 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:25:03 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:25:21 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:25:24 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 10:25:26 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 10:26:46 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:26:51 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:27:17 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 10:27:19 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "remove"
+    },
+    {
+        "time": "02 Nov 2020, 10:36:45 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:36:47 pm",
+        "prod_name": "MANGO JACKET 2",
+        "action": "change"
+    },
+    {
+        "time": "02 Nov 2020, 10:36:50 pm",
+        "prod_name": "MANGO JACKET 1",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:36:51 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "add"
+    },
+    {
+        "time": "02 Nov 2020, 10:36:52 pm",
+        "prod_name": "MANGO JACKET 3",
+        "action": "change"
+    }
+]

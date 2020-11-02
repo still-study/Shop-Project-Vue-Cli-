@@ -147,8 +147,8 @@
             </div>
           </div>
             <div class="product__bloks-men">
-              <ProductComp v-for="item of filtered" :key="item.id_product" :img="imgCatalog"
-              :product="item"></ProductComp>
+              <ProductComp v-for="item of filtered" :key="item.id_product"
+              :img="imgCatalog" :product="item"></ProductComp>
             </div>
             <div class="men-pagination">
               <ul class="left_pagination">
@@ -186,7 +186,7 @@
 </template>
 
 <script>
-import { mapGetters, mapActions } from 'vuex';
+import { mapMutations, mapGetters } from 'vuex';
 import ProductComp from './ProductComp.vue';
 
 export default {
@@ -194,11 +194,17 @@ export default {
   components: {
     ProductComp,
   },
-  computed: mapGetters(['filtered', 'products', 'imgCatalog']),
-  methods:
-  mapActions(['getJson']),
-  async mounted() {
-    this.getJson();
+  computed: {
+    ...mapGetters(['filtered', 'products', 'imgCatalog']),
+  },
+  methods: {
+    ...mapMutations(['UPDATE_PRODUCTS']),
+  },
+  mounted() {
+    this.$parent.getJson('/api/products')
+      .then((data) => {
+        this.UPDATE_PRODUCTS(data);
+      });
   },
 };
 </script>

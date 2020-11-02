@@ -28,44 +28,9 @@
     </div>
     <div class="header__right">
       <div class="header__cart">
-        <img src="../../public/img/cart.png" alt="cart">
-      <div class="cart__drop">
-    <div class="order-position">
-      <a href="#">
-        <img class="img__order-position" src="../../public/img/1821.png" alt="">
-      </a>
-      <div class="text__order-position">
-      <a href="#"><h3>Rebox Zane</h3></a>
-      <i class="fas fa-star"></i>
-      <i class="fas fa-star"></i>
-      <i class="fas fa-star"></i>
-      <i class="fas fa-star"></i>
-      <i class="fas fa-star-half-alt"></i>
-      <p>1 x $250</p></div>
-      <div class="order__circle"><a href="#"><i class="fas fa-times-circle"></i></a></div>
-    </div>
-    <div class="order-position">
-      <a href="#">
-        <img class="img__order-position" src="../../public/img/1821.png" alt="">
-      </a>
-      <div class="text__order-position">
-        <a href="#"><h3>Rebox Zane</h3></a>
-      <i class="fas fa-star"></i>
-      <i class="fas fa-star"></i>
-      <i class="fas fa-star"></i>
-      <i class="fas fa-star"></i>
-      <i class="fas fa-star-half-alt"></i>
-      <p>1 x $250</p></div>
-      <div class="order__circle"><a href="#"><i class="fas fa-times-circle"></i></a></div>
-    </div>
-    <div class="total-text">
-      <p>Total</p>
-      <p>$500.00</p>
-    </div>
-    <div class="drop_button">
-    <a href="#">Checkout</a>
-    <a href="#">Go to cart</a>
-    </div>
+        <img src="../../public/img/cart.png" alt="cart" @click="showCart = !showCart">
+      <div class="cart__drop" v-show="showCart">
+        <CartComp/>
     </div>
       </div><a class="button" href="#">My account<img src="../../public/img/1109.png" alt=""></a>
     </div>
@@ -74,16 +39,18 @@
 
 <script>
 import FilterComp from './FilterComp.vue';
+import CartComp from './CartComp.vue';
 
 export default {
   name: 'HeaderComp',
-  components: {
-    FilterComp,
-  },
   data() {
     return {
       showCart: false,
     };
+  },
+  components: {
+    FilterComp,
+    CartComp,
   },
 };
 </script>

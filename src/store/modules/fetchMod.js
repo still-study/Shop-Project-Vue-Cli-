@@ -1,22 +1,15 @@
 export default {
   actions: {
-    async getJson({ commit }) {
-      // const res = await fetch('https://raw.githubusercontent.com/still-study/api/master/products.json')
-      const res = await fetch('/products')
-        .catch((error) => {
-          console.log(error);
-        // this.$refs.error.setError(error);
-        });
-      const products = await res.json();
-      commit('updateProducts', products);
-    },
   },
+
   mutations: {
-    updateProducts(state, products) {
-      state.products = products;
-      state.filtered = products;
+    UPDATE_PRODUCTS(state, data) {
+      data.forEach((el) => {
+        state.products.push(el);
+        state.filtered.push(el);
+      });
     },
-    filter(state, userSearch) {
+    FILTER(state, userSearch) {
       const regexp = new RegExp(userSearch, 'i');
       state.filtered = state.products.filter((el) => regexp.test(el.product_name));
     },

@@ -62,7 +62,7 @@
                 </label>
             </div>
             <a class="description-add" href="#">
-              <img src="/img/2587.png" alt="cart_pink">Add to Cart</a>
+              <img src="/img/2587.png" alt="cart_pink" >Add to Cart</a>
         </div>
     </section>
     <div class="like_also center">
@@ -103,20 +103,10 @@
 </div>
 </div>
 </div>
-  <!-- <div>
-    <div v-for="product of products" :key="product.id_product">
-      <div v-if="currentId == product.id_product">
-        <h1>{{ product.product_name }}</h1>
-        <img class="product__img" :src="imgCatalog + product.img_name" alt="Some img">
-        <p class="product__price">${{product.price}}</p>
-        <a href="#">Add to Cart</a>
-      </div>
-    </div>
-  </div> -->
 </template>
 
 <script>
-import { mapGetters } from 'vuex';
+import { mapActions, mapGetters } from 'vuex';
 
 export default {
   name: 'MoreDetails',
@@ -125,6 +115,12 @@ export default {
       pathId: this.$route.params.id,
     };
   },
+  methods: {
+    ...mapActions(['getJson']),
+  },
   computed: mapGetters(['filtered', 'products', 'imgCatalog']),
+  mounted() {
+    this.getJson('/api/products');
+  },
 };
 </script>

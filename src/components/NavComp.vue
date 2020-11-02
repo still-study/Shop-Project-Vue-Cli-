@@ -4,7 +4,7 @@
         <!-- <li class="menu__list"><a href="#" class="menu__link">Home </a></li> -->
         <!-- <li class="menu__list"> <a href="product.html" class="menu__link">Man</a> -->
         <li class="menu__list"><router-link class="menu__link" to="/">Home</router-link></li>
-        <li class="menu__list"><router-link class="menu__link" to="/products">Man</router-link>
+        <li class="menu__list"><router-link class="menu__link" to="/api/products">Man</router-link>
           <div class="drop">
             <div class="drop__flex">
               <h3 class="drop__h3">Women</h3>

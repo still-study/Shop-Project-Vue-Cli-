@@ -1,0 +1,27 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id_product": 2,
+            "img_name": "1877.png",
+            "product_name": "MANGO JACKET 2",
+            "price": 42,
+            "quantity": 2
+        },
+        {
+            "id_product": 1,
+            "img_name": "1657.png",
+            "product_name": "MANGO JACKET 1",
+            "price": 65.15,
+            "quantity": 1
+        },
+        {
+            "id_product": 3,
+            "img_name": "1209.png",
+            "product_name": "MANGO JACKET 3",
+            "price": 59,
+            "quantity": 2
+        }
+    ]
+}

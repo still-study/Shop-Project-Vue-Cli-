@@ -1,5 +1,6 @@
 <template>
-    <form action="#" class="search-form" @submit.prevent="submit">
+    <form action="#" class="search-form"
+    @submit.prevent="FILTER(userSearch)">
         <input type="text" placeholder="Search for Item..."
         class="search-field" v-model="userSearch">
         <button class="browse__button" type="submit">
@@ -17,9 +18,11 @@ export default {
     };
   },
   methods: {
-    ...mapMutations(['filter']),
+    ...mapMutations(['FILTER']),
     submit() {
-      this.filter(this.userSearch);
+      this.FILTER({
+        userSearch: this.userSearch,
+      });
     },
   },
 };
